@@ -1,0 +1,74 @@
+[
+    {
+        "name": "fattouh",
+        "grades": {
+            "Math": 70.0,
+            "Science": 60.0,
+            "English": 50.0
+        },
+        "average_grade": 60.0
+    },
+    {
+        "name": "saadawi",
+        "grades": {
+            "Math": 30.0,
+            "Science": 48.0,
+            "English": 68.0
+        },
+        "average_grade": 48.666666666666664
+    },
+    {
+        "name": "menofy",
+        "grades": {
+            "Math": 23.0,
+            "Science": 13.0,
+            "English": 56.0
+        },
+        "average_grade": 30.666666666666668
+    },
+    {
+        "name": "sfrid ",
+        "grades": {
+            "Math": 45.0,
+            "Science": 57.0,
+            "English": 68.0
+        },
+        "average_grade": 56.666666666666664
+    },
+    {
+        "name": "zara ",
+        "grades": {
+            "Math": 67.0,
+            "Science": 78.0,
+            "English": 90.0
+        },
+        "average_grade": 78.33333333333333
+    },
+    {
+        "name": "androw",
+        "grades": {
+            "Math": 68.0,
+            "Science": 89.0,
+            "English": 83.0
+        },
+        "average_grade": 80.0
+    },
+    {
+        "name": "saadawi",
+        "grades": {
+            "Math": 29.0,
+            "Science": 58.0,
+            "English": 40.0
+        },
+        "average_grade": 42.333333333333336
+    },
+    {
+        "name": "ew",
+        "grades": {
+            "intro to programing": 34.0,
+            "object oriented programing": 45.0,
+            "computer architechture": 56.0
+        },
+        "average_grade": 45.0
+    }
+]
